@@ -1,4 +1,4 @@
-# Information Theory Practice
+# Neuronal Communication Analysis in Blue Crab Stomatogastric Organ
 This project analyzes data from two neurons (LP and VD) in the blue crab's stomatogastric organ. Using information theory techniques (entropy, mutual information, temporal and SAX coding), it aims to unveil communication patterns between these neurons in control, GABA injection, and recovery conditions.
 
 ## Comparison of SAX and Temporal Encoding Results
